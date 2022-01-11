@@ -49,7 +49,7 @@ safira -lenght 40 -find 41306241
 - I dislike Ruby
 - I don't want to install Metasploit Framework on Windows
 - I like making programs in Go
-- My dog died because she ate some poisonous stuff that some uncivilized human dropped on the open field on purpose. 
+- My dog died because she ate some poisonous stuff that some uncivilized human dropped on the open field on purpose. So I wanted to create a memory that will remain forever.
 
 # Your code/program sucks, what can I do about it?
 - Make a push request.
@@ -57,5 +57,4 @@ safira -lenght 40 -find 41306241
 - Absolutely nothing.
 
 If none of the options are appealing you, you can contact me at the following number: `605 475-6968`.
-
 
